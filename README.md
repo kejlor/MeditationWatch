@@ -8,6 +8,7 @@ from the HeatlhKit.
 ### Used Technologies:
 1. SwiftUI
 2. HealthKit
+3. WatchOS
 <br>
 
 ### Screenshots
