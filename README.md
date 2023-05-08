@@ -13,7 +13,7 @@ from the HeatlhKit.
 ### Screenshots
 
 #### Static watch screen
-<img src="Images/screen.png" width="400" height="800">
+<img src="Images/screen.png" width="400" height="400">
 
 #### 200 BPM - Enormous stress
 <img src="Images/200bpm.gif" width="400" height="400">
